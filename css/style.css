@@ -94,7 +94,6 @@ h2 {
 .btn-1 a:hover {
     background-color: #00FFEA;
     color: #121212;
-    border-radius: 6px;
 }
 
 /* images */
@@ -236,3 +235,7 @@ h2 {
 .footer {
     flex-direction: column;
 }
+    
+.modul {
+    margin-bottom: 20px;   
+    }
